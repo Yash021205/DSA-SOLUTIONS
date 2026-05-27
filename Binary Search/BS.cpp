@@ -1,3 +1,7 @@
+// C++ program for recursive binary search
+//Time Complexity: O(log n)
+//Space Complexity: O(log n) because of recursive stack space
+//Note: The array must be sorted before calling the binary search function.
 #include <bits/stdc++.h>
 using namespace std;
 
